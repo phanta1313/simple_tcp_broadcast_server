@@ -1,4 +1,4 @@
 # simple_tcp_broadcast_server
 
 # Connect and talk :D
-# IP: 0.0.0.0/0 (not ready)
+# ADDR: 34.131.139.139/8080
